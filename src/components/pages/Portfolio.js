@@ -9,7 +9,7 @@ export default function Portfolio(){
             <div className="row">
                 
                     <div className="oldP col">
-                    <a href="https://techbloggging.herokuapp.com/dash" target="_blank" className="aDecor">Old Profile 📺</a>
+                    <a href="https://jimmysolis.github.io/Challenge2Portfolio" target="_blank" className="aDecor">Old Profile 📺</a>
                     </div>
                   
                     <div className="techB col">
