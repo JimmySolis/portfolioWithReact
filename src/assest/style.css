@@ -100,8 +100,29 @@
     text-align: center;
 }
 
+.centerDiv{
+    float: right;
+    margin: 10px;
+}
+
 .styleForm{
     margin: 10px;
-    border-radius: 10px;
-    box-shadow: 5px 10px #13293D ;
+    box-shadow: 15px 10px #13293D ;
 }
+
+.submitbutton{
+    background-color: #1B98E0;
+    color:  #ecf0f3;
+
+}
+
+.downloadButton{
+    background-color: #1B98E0;
+    color:  #ecf0f3;
+    border-radius: 5px;
+}
+
+.imgSize{
+    height: 30px;
+}
+
