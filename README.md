@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# React Portfolio 
+  ![APP](./public/img/REACTAPP.GIF)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  GITHUB: https://github.com/JimmySolis/portfolioWithReact
+  APP: https://jimmysolis.github.io/portfolioWithReact/
+  ## Description
+  In this project I have remade my portfolio but with the use of react.
 
-## Available Scripts
+  ## Table of Contents 
+  - [Installation](#installation)
+  - [Usage](#usage)
 
-In the project directory, you can run:
+  ## Installation
+  There is no need to install anything. Just visit the link provided to the website.
 
-### `npm start`
+  ## Usage
+  To use the website just toggel through the different sections in the profile and see all the things available.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ## Questions
+  Here is my email for questions:  jimmysolis14@gmail.com
+  <br />
+  If you would like to look me up in github, here is my username: JimmySolis
+  <br />
+  Follow these instructions to contact me: <br />
+  Please email me with questions. I will get back to you in one to two business days.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ### How it Works:
 
-### `npm test`
+  #### 1) React automatically bundles my code. Therefore, this layout has all the files and folders that make up my app.   
+  ![Layout](./public/img/Layout.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  #### 2) In the public folder I store all my images that I use throughout the app. As well as my resume pdf.
+  ![ImgFolder](./public/img/imgFolder.png)
 
-### `npm run build`
+  #### 3) In these files I have the rendering of JSX that is inputed as a div with the id = root. All my dependency are impoted here as well giving me the chance to utilize throughout my app. 
+  ![AppFile](./public/img/appFile.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  #### 4) Here are the core componets that work as sectionals for my app.
+  ![Components](./public/img/Compontes.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  #### 5) Finally here I have the actual content that goes in each page. Sectioning out like this help alot. Making the app very quick.
+  ![pages](./public/img/pages.png)
+     
+![Headshot](./public/img/ResizeHeadshot.png)
