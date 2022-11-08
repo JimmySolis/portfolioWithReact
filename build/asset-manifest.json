@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolioWithReact/static/css/main.62d2aa55.css",
-    "main.js": "/portfolioWithReact/static/js/main.782c2a81.js",
+    "main.js": "/portfolioWithReact/static/js/main.20b68ab5.js",
     "static/media/jamesGeovannyArt.gif": "/portfolioWithReact/static/media/jamesGeovannyArt.a015a3dd6866f145ae0f.gif",
     "static/media/jamesGeovanyClothing.gif": "/portfolioWithReact/static/media/jamesGeovanyClothing.9680ea1e4423d464509b.gif",
     "static/media/wtweather.gif": "/portfolioWithReact/static/media/wtweather.e8e6ff2713b1953ead61.gif",
@@ -10,10 +10,10 @@
     "static/media/hcjProfile.gif": "/portfolioWithReact/static/media/hcjProfile.b06d7985f7608e94983d.gif",
     "index.html": "/portfolioWithReact/index.html",
     "main.62d2aa55.css.map": "/portfolioWithReact/static/css/main.62d2aa55.css.map",
-    "main.782c2a81.js.map": "/portfolioWithReact/static/js/main.782c2a81.js.map"
+    "main.20b68ab5.js.map": "/portfolioWithReact/static/js/main.20b68ab5.js.map"
   },
   "entrypoints": [
     "static/css/main.62d2aa55.css",
-    "static/js/main.782c2a81.js"
+    "static/js/main.20b68ab5.js"
   ]
 }

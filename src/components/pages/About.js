@@ -1,6 +1,6 @@
 import React from "react";
 
-const headshot = "img/headshot.png";
+const headshot = "img/headshot1.PNG";
 
 const style = {
     imgStyle: {
@@ -17,17 +17,13 @@ export default function About() {
             <h1>About Me</h1>
                 <img src={headshot} style={style.imgStyle}></img>
                 <p>Hello World!
-                Who is Jimmy Solis? Well this quick passage will update you to his current state:
-                Right as the pandemic started, everything I was working on came to an abrupt stop.
-                For three years I was submerged in an art school trying to get into a BFA program.
-                Right as I was accepted, I had to get out.
-                My family was struggling to make ends meet and living in Los Angeles forced us to act fast and relocate to Florida.
-                Here, I got a job as a bartender and went to work every single day for the next two years.
-                I learned a lot about the world as it is today and promised myself to excel in everything I do to ensure my family never has to fear for a secure living.
-                With that mindset, I seeked an opportunity to grow as an individual and I stumbled upon computer coding.
-                I simply wanted to upload my drawings to a website of my own which lead me to discover the art of web design.
-                From there, I was hooked. I'm able to channel my creativity and provide a suitable living for my family.
-                I’m grateful for how things turned out and I'm the happiest I’ve ever been.
+                Full-stack web developer utilizing an art background to push the standards of UI.
+                Obtained a MERN focused certificate from Georgia Institute of Technology that covered JavaScript, Databases, React.js and responsive web design.
+                A goal oriented and creative problem solver centered on mobile-first design and development. 
+                I am working to achieve a bigger understanding of the cutting edge technologies present today. 
+                Having learned a plethora of different tools, I wish to invent and work on websites that will solve vital problems people face.  
+                I also wish to continue to expand on digital art and digital art environments. 
+                I’m excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences on the web.
                  </p>
          </div>
     );
