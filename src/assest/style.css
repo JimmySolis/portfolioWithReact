@@ -1,5 +1,4 @@
 .techB{
-    display: flex;
     border: 1px solid #13293D;
     border-radius: 100px; 
     background-image: url("/public/img/techBlogging.gif");
@@ -9,7 +8,6 @@
 
 
 .jgc{
-    display: flex;
     border: 1px solid #13293D;
     border-radius: 100px ; 
     background-image: url("/public/img/jamesGeovanyClothing.gif");
@@ -18,7 +16,6 @@
 }
 
 .jga{
-    display: flex;
     border: 1px solid #13293D;
     border-radius: 100px ; 
     background-image: url("/public/img/jamesGeovannyArt.gif");
@@ -27,7 +24,6 @@
 }
 
 .wtw{
-   display: flex;
    border: 1px solid #13293D;  
    border-radius: 100px ; 
    background-image: url("/public/img/wtweather.gif");
@@ -36,7 +32,6 @@
 }
 
 .cD{
-   display: flex;
    border: 1px solid #13293D;
    border-radius: 100px ; 
    background-image: url("/public/img/Quiz.gif");
@@ -46,7 +41,6 @@
 
 
 .oldP{
-    display: flex;
     border: 1px solid #13293D;
     border-radius: 100px; 
    background-image: url("/public/img/hcjProfile.gif");
@@ -55,7 +49,6 @@
 }
 
 .bos{
-    display: flex;
     border: 1px solid #13293D;
     border-radius: 100px ; 
     background-image: url("/public/img/backofShop.gif");
@@ -65,7 +58,6 @@
 }
 
 .mySol{
-    display: flex;
     border: 1px solid #13293D;
     border-radius: 100px ; 
     background-image: url("/public/img/mySocial.gif");
@@ -129,3 +121,19 @@
 .sizeEmoji{
     text-decoration: none;
 }
+
+
+@media only screen and (max-width: 700px) {
+    .aDecor{
+        opacity: 1;
+        padding: 60px;
+        text-align: center;
+        display: block;
+        justify-content: center;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        border-radius: 100%;
+        background-color: #1b98e0cf;
+    }
+    
+  }
