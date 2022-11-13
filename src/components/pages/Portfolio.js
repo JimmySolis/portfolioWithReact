@@ -6,8 +6,8 @@ export default function Portfolio(){
     return (
         <div className="container-sm m-2">
             <h1>Projects</h1>
-            <h3>Hover over each poject for coding details and links</h3>
-            <h4><img src={gitIcon}></img> = GitHub Repo</h4>
+            <h4>Hover over each poject for coding details and links</h4>
+            <h5><img src={gitIcon}></img> = GitHub Repo</h5>
             <h4>🌎 = Website</h4>
         <br/>
 

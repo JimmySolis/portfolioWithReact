@@ -39,7 +39,7 @@ export default function Contact () {
                 onChange={(e) => setfullName(e.target.value)}
                 type="text" 
                 name="full_name"
-                className="col-12 m-2">
+                className="col-10 m-2">
                 </input>
                 <input 
                 placeholder="Email" 
@@ -48,7 +48,7 @@ export default function Contact () {
                 onChange={(e) => setEmail(e.target.value)}
                 type="email" 
                 name="user_email"
-                className="col-12 m-2">
+                className="col-10 m-2">
                 </input>
 
                 <textarea
@@ -56,12 +56,12 @@ export default function Contact () {
                 required
                 value={message}
                 onChange={(e) => setMessage(e.target.value)}
-                className="col-12 m-2"
+                className="col-10 m-2"
                 name="message"
                 > 
                 </textarea>
 
-                <button className="submitbutton col-12 m-2" type="submit" value="Send">Send</button>
+                <button className="submitbutton col-10 m-2" type="submit" value="Send">Send</button>
 
             </form>
             </div>

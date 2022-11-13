@@ -1,27 +1,16 @@
 import React from "react";
 
+import file from "../../assest/JimmySolisResume.pdf"
+
 export default function Resume () {
-     // Function will execute on click of button
-     const onButtonClick = () => {
-        // using Java Script method to get PDF file
-        fetch('jgsResume.pdf').then(response => {
-            response.blob().then(blob => {
-                // Creating new object of PDF file
-                const fileURL = window.URL.createObjectURL(blob);
-                // Setting various property values
-                let alink = document.createElement('a');
-                alink.href = fileURL;
-                alink.download = 'jgsResume.pdf';
-                alink.click();
-            })
-        })
-    }
+  
     return(
         <div className="container-sm">
             <h1>Resume</h1>
-            <button onClick={onButtonClick} className="downloadButton">
+            <a href={file} download> <button className="downloadButton">
             Download My Resume
-            </button>
+            </button></a>
+           
             <br/>
             <br/>
             <h4>Front-end Proficiencies</h4>
