@@ -16,8 +16,8 @@ export default function Portfolio(){
 
                 <div className="lis col m-3">
             <div className="aDecor m-4">
-                    <a href="https://github.com/JimmySolis/TechBlogging" target="_blank"><img src={gitIcon}></img> </a>
-                    <a href="https://techbloggging.herokuapp.com/signUp" target="_blank" className="sizeEmoji"><h2>🌎</h2></a>
+                    <a href="https://github.com/JimmySolis/listed" target="_blank"><img src={gitIcon}></img> </a>
+                    <a href="https://listed.herokuapp.com/" target="_blank" className="sizeEmoji"><h2>🌎</h2></a>
                     <h3>Listed ✅</h3> 
                         <h4>Tech Used:</h4>
                         <p>

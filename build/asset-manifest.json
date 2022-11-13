@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolioWithReact/static/css/main.e8488958.css",
-    "main.js": "/portfolioWithReact/static/js/main.9578b532.js",
+    "main.css": "/portfolioWithReact/static/css/main.0d10923d.css",
+    "main.js": "/portfolioWithReact/static/js/main.43a1eb3a.js",
     "static/media/jamesGeovannyArt.gif": "/portfolioWithReact/static/media/jamesGeovannyArt.a015a3dd6866f145ae0f.gif",
     "static/media/jamesGeovanyClothing.gif": "/portfolioWithReact/static/media/jamesGeovanyClothing.9680ea1e4423d464509b.gif",
     "static/media/wtweather.gif": "/portfolioWithReact/static/media/wtweather.e8e6ff2713b1953ead61.gif",
+    "static/media/DelegantREADME.gif": "/portfolioWithReact/static/media/DelegantREADME.90fd7cd6dfeed23d838d.gif",
     "static/media/Quiz.gif": "/portfolioWithReact/static/media/Quiz.9f9d23067cf9efcdae5f.gif",
     "static/media/techBlogging.gif": "/portfolioWithReact/static/media/techBlogging.0cac91c9993a4ec29320.gif",
     "static/media/hcjProfile.gif": "/portfolioWithReact/static/media/hcjProfile.b06d7985f7608e94983d.gif",
+    "static/media/listed.gif": "/portfolioWithReact/static/media/listed.af2560c7d7e735d1797c.gif",
     "static/media/backofShop.gif": "/portfolioWithReact/static/media/backofShop.2965f8351dc62a9bc258.gif",
     "static/media/mySocial.gif": "/portfolioWithReact/static/media/mySocial.465f8c49ce016f280309.gif",
     "index.html": "/portfolioWithReact/index.html",
-    "main.e8488958.css.map": "/portfolioWithReact/static/css/main.e8488958.css.map",
-    "main.9578b532.js.map": "/portfolioWithReact/static/js/main.9578b532.js.map"
+    "main.0d10923d.css.map": "/portfolioWithReact/static/css/main.0d10923d.css.map",
+    "main.43a1eb3a.js.map": "/portfolioWithReact/static/js/main.43a1eb3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8488958.css",
-    "static/js/main.9578b532.js"
+    "static/css/main.0d10923d.css",
+    "static/js/main.43a1eb3a.js"
   ]
 }
