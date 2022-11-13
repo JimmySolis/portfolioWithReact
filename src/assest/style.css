@@ -1,7 +1,62 @@
+.techB{
+    display: flex;
+    border: 1px solid #13293D;
+    border-radius: 100px; 
+    background-image: url("/public/img/techBlogging.gif");
+    background-position: left;  
+    background-size: cover;
+}
+
+
+.jgc{
+    display: flex;
+    border: 1px solid #13293D;
+    border-radius: 100px ; 
+    background-image: url("/public/img/jamesGeovanyClothing.gif");
+    background-position: center;  
+    background-size: cover;
+}
+
+.jga{
+    display: flex;
+    border: 1px solid #13293D;
+    border-radius: 100px ; 
+    background-image: url("/public/img/jamesGeovannyArt.gif");
+    background-size: cover;
+   background-position: left;
+}
+
+.wtw{
+   display: flex;
+   border: 1px solid #13293D;  
+   border-radius: 100px ; 
+   background-image: url("/public/img/wtweather.gif");
+   background-position: center;  
+   background-size: cover;
+}
+
+.cD{
+   display: flex;
+   border: 1px solid #13293D;
+   border-radius: 100px ; 
+   background-image: url("/public/img/Quiz.gif");
+   background-position: center;  
+   background-size: cover;
+}
+
+
+.oldP{
+    display: flex;
+    border: 1px solid #13293D;
+    border-radius: 100px; 
+   background-image: url("/public/img/hcjProfile.gif");
+   background-position: left;  
+   background-size: cover;
+}
+
 .bos{
     display: flex;
     border: 1px solid #13293D;
-    width: 30%;
     border-radius: 100px ; 
     background-image: url("/public/img/backofShop.gif");
     background-position: center;  
@@ -12,93 +67,10 @@
 .mySol{
     display: flex;
     border: 1px solid #13293D;
-    width: 30%;
     border-radius: 100px ; 
     background-image: url("/public/img/mySocial.gif");
     background-position: center;  
     background-size: cover;
-}
-
-.jgc{
-    display: flex;
-    padding: 60px;
-    border: 1px solid #13293D;
-    margin: 10px;
-    height: 200px;
-    width: 30%;
-    border-radius: 100px ; 
-    background-image: url("/public/img/jamesGeovanyClothing.gif");
-    background-position: center;  
-    background-size: cover;
-}
-.jga{
-    display: flex;
-    padding: 60px;
-    border: 1px solid #13293D;
-    margin: 10px;
-    height: 200px;
-    width: 30%;
-    border-radius: 100px ; 
-    background-image: url("/public/img/jamesGeovannyArt.gif");
-    background-size: cover;
-   background-position: left;
-    font-size: 0px;
-}
-
-.wtw{
-    display: flex;
-    padding: 60px;
-     border: 1px solid #13293D;
-    margin: 10px;
-    height: 200px;
-    width: 30%;
-    border-radius: 100px ; 
-   background-image: url("/public/img/wtweather.gif");
-   background-position: center;  
-   background-size: cover;
-   font-size: 0;
-}
-
-.cD{
-    display: flex;
-    padding: 60px;
-     border: 1px solid #13293D;
-    margin: 10px;
-    height: 200px;
-    width: 30%;
-    border-radius: 100px ; 
-   background-image: url("/public/img/Quiz.gif");
-   background-position: center;  
-   background-size: cover;
-   font-size: 0;
-}
-
-.techB{
-    display: flex;
-    padding: 60px;
-    border: 1px solid #13293D;
-    margin: 10px;
-    height: 200px;
-    width: 30%;
-    border-radius: 100px ; 
-   background-image: url("/public/img/techBlogging.gif");
-   background-position: center;  
-   background-size: cover;
-   font-size: 0;
-}
-
-.oldP{
-    display: flex;
-    padding: 60px;
-    border: 1px solid #13293D;
-    margin: 10px;
-    height: 200px;
-    width: 30%;
-    border-radius: 100px ; 
-   background-image: url("/public/img/hcjProfile.gif");
-   background-position: center;  
-   background-size: cover;
-   font-size: 0;
 }
 
 .aDecor{
@@ -153,3 +125,7 @@
     height: 30px;
 }
 
+
+.sizeEmoji{
+    text-decoration: none;
+}
