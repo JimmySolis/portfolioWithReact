@@ -14,6 +14,18 @@ export default function Portfolio(){
             <div className="row">
                 <h2>Full-Stack</h2>
 
+                <div className="lis col m-3">
+            <div className="aDecor m-4">
+                    <a href="https://github.com/JimmySolis/TechBlogging" target="_blank"><img src={gitIcon}></img> </a>
+                    <a href="https://techbloggging.herokuapp.com/signUp" target="_blank" className="sizeEmoji"><h2>🌎</h2></a>
+                    <h3>Listed ✅</h3> 
+                        <h4>Tech Used:</h4>
+                        <p>
+                        React, JavaScript & MongoDB                                
+                        </p>
+                    </div>     
+                    </div>   
+
                 <div className="techB col m-3">
             <div className="aDecor m-4">
                     <a href="https://github.com/JimmySolis/TechBlogging" target="_blank"><img src={gitIcon}></img> </a>
@@ -53,6 +65,18 @@ export default function Portfolio(){
 
             <div className="row">
                  <h2>Front-End</h2>
+
+                 <div className="delPD col m-3">
+            <div className="aDecor m-4">
+                    <a href="https://github.com/JimmySolis/DelegentHostinger" target="_blank"><img src={gitIcon}></img> </a>
+                    <a href="https://delegantpoodlesanddoodles.com/"  className="sizeEmoji" target="_blank"><h2>🌎 </h2></a>
+                    <h3>Delegant Poodels and Doodles</h3> 
+                        <h4>Tech Used:</h4>
+                        <p>
+                        HTML, CSS & JavaScript                              
+                        </p>
+                    </div>     
+                    </div>   
 
                     <div className="oldP col m-3">
             <div className="aDecor m-4">

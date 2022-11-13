@@ -48,6 +48,22 @@
    background-size: cover;
 }
 
+.delPD{
+    border: 1px solid #13293D;
+    border-radius: 100px; 
+   background-image: url("/public/img/DelegantREADME.gif");
+   background-position: center;  
+   background-size: cover;
+}
+
+.lis{
+    border: 1px solid #13293D;
+    border-radius: 100px; 
+   background-image: url("/public/img/listed.gif");
+   background-position: left;  
+   background-size: cover;
+}
+
 .bos{
     border: 1px solid #13293D;
     border-radius: 100px ; 
