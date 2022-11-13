@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolioWithReact/static/css/main.c71b817e.css",
-    "main.js": "/portfolioWithReact/static/js/main.ad8bb13d.js",
+    "main.css": "/portfolioWithReact/static/css/main.e8488958.css",
+    "main.js": "/portfolioWithReact/static/js/main.3a4b6ba4.js",
     "static/media/jamesGeovannyArt.gif": "/portfolioWithReact/static/media/jamesGeovannyArt.a015a3dd6866f145ae0f.gif",
     "static/media/jamesGeovanyClothing.gif": "/portfolioWithReact/static/media/jamesGeovanyClothing.9680ea1e4423d464509b.gif",
     "static/media/wtweather.gif": "/portfolioWithReact/static/media/wtweather.e8e6ff2713b1953ead61.gif",
@@ -11,11 +11,11 @@
     "static/media/backofShop.gif": "/portfolioWithReact/static/media/backofShop.2965f8351dc62a9bc258.gif",
     "static/media/mySocial.gif": "/portfolioWithReact/static/media/mySocial.465f8c49ce016f280309.gif",
     "index.html": "/portfolioWithReact/index.html",
-    "main.c71b817e.css.map": "/portfolioWithReact/static/css/main.c71b817e.css.map",
-    "main.ad8bb13d.js.map": "/portfolioWithReact/static/js/main.ad8bb13d.js.map"
+    "main.e8488958.css.map": "/portfolioWithReact/static/css/main.e8488958.css.map",
+    "main.3a4b6ba4.js.map": "/portfolioWithReact/static/js/main.3a4b6ba4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c71b817e.css",
-    "static/js/main.ad8bb13d.js"
+    "static/css/main.e8488958.css",
+    "static/js/main.3a4b6ba4.js"
   ]
 }
